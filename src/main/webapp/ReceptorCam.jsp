@@ -18,8 +18,8 @@
             <applet code="org.receptor.form.AppletReceptor"               
                     codetype="application/java"
                     archive="ReceptorCam.jar" width="300" height="250">             
-                <PARAM NAME="server" VALUE="150.163.46.138"/>
-                <PARAM NAME="port" VALUE="1235"/>
+                <param name="server" value="150.163.46.138">
+                <param name="port" value="1235">
             </applet> 
         </center>
     </body>
